@@ -70,6 +70,24 @@ img
 }
 .infobox
 {
+    display: inline-block;
+
+    background-color: #edeff1;
+    border-radius: 15px;
+    width: 300px;
+    height: 150px;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+
+.neben
+{
+    margin-left: 205px;
+}
+
+.infobox2
+{
+    display: inline-block;
     background-color: #edeff1;
     border-radius: 15px;
     width: 300px;
